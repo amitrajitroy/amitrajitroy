@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitrajitroy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning R
+- 👀 I’m interested in Analytics, Machine Learning, Data Visualisation
+- 🌱 I’m currently learning R, Tableau, AI/ML.
 - 💞️ I’m looking to collaborate on Open Source Projects related to R
 - 📫 How to reach me LinkedIn - https://www.linkedin.com/in/amitrajit-roy/
                       Twitter - https://twitter.com/amitrajit
